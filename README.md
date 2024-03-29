@@ -1,5 +1,7 @@
 # Emotions Meter
 Emotions Meter is my first project that I created using a [Hugging Face](https://huggingface.co/dima806/facial_emotions_image_detection) module. It's a very basic and raw combination of packages to identify and display the emotions which are captured through your live video capture.
+
+Note:- The default update timer speed used is 2000ms (2 seconds).
 ## Prerequisites
 * Recommended IDE: PyCharm
 * Installation :- 
