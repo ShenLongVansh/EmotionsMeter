@@ -2,10 +2,14 @@
 Emotions Meter is my first project that I created using a [Hugging Face](https://huggingface.co/dima806/facial_emotions_image_detection) module. It's a very basic and raw combination of packages to identify and display the emotions which are captured through your live video capture.
 ## Prerequisites
 * Recommended IDE: PyCharm
-* Installation :-
+* Installation :- 
+1) Use these commands if using an IDE other than PyCharm.
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
+```
+2) Configure the packages utilized.
+```bash
 pip install -r requirements.txt
 ```
 
